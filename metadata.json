@@ -1,0 +1,6 @@
+{
+  "name": "FaceGuard AI Dashboard",
+  "description": "Smart real-time face recognition monitoring and analytics dashboard with owner setup and threat detection system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Dashboard", "Security Monitoring"]
+}
